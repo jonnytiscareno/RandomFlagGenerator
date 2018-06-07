@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cbe3989-845e-4dcf-959b-178ee2aeaf3e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ae.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/af.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/al.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/am.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/at.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/au.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/az.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/be.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/br.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/by.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ca.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ci.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/co.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/cz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/de.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/do.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ec.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ee.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/eg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/eh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/er.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/es.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/et.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ga.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/gy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/hn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/hr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ht.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/hu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/id.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/il.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/in.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/iq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ir.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/is.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/it.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/jm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/jo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/jp.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ke.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ki.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/km.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kp.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/kz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/la.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/li.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ls.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ly.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ma.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/md.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/me.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ml.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/my.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/na.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ne.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ni.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/no.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/np.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/om.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ph.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/py.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/qa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ru.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/se.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/si.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/so.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/st.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/td.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/th.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/to.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ua.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ug.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/us.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/uy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/uz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/va.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/vc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ve.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/vn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/vu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ws.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ye.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/za.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/home/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ae.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/images/ae.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+        <option value="Erb File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/controllers/home.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/home/show.html.erb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFG" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: RFG">
+    <configuration name="Development: RFG" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="RFG" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="Production: RFG" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="RFG" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="spec: RFG" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="RFG" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <configuration name="test: RFG" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="RFG" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: RFG" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: RFG" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: RFG" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: RFG" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cbe3989-845e-4dcf-959b-178ee2aeaf3e" name="Default" comment="" />
+      <created>1528328580930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528328580930</updated>
+      <workItem from="1528328582331" duration="1093000" />
+      <workItem from="1528333765093" duration="2873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3966000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/ae.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home.rb" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/ae.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
